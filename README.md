@@ -1,5 +1,5 @@
-<img width="1280" height="809" alt="image" src="https://github.com/user-attachments/assets/129fcd0a-e8c9-4e1c-bba7-541818390717" /><img width="1280" height="809" alt="image" src="https://github.com/user-attachments/assets/f929fed8-dc8d-4ea8-b1e4-b9895de5ff15" />
-Exp 5 Experimental verification of frequency response of Digital fiber optic link
+
+# Exp 5 Experimental verification of frequency response of Digital fiber optic link
 # Digital Fiber Optic Link Analysis (600nm)
 
 ## AIM
